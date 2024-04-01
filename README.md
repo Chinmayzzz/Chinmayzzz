@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Chinmay Bokolia
-- 👀 I’m interested in 
 - 🌱 I’m currently learning React and network hacking.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my mail ID-bokoliachinmay@gmail.com...
 
 <!---
