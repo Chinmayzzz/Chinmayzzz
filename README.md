@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chinmay Bokolia
 - 🌱 I’m currently learning React and network hacking.
-- 📫 How to reach me my mail bokoliachinmay@gmail.com...
+- 📫 How to reach me myMail== bokoliachinmay@gmail.com...
 
 <!---
 Chinmayzzz/Chinmayzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
