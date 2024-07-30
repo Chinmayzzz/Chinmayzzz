@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chinmay Bokolia
-- 🌱 I’m currently learning React and network hacking.
+- 🌱 I’m currently learning RESTful API's.
 - 📫 How to reach me myMail== bokoliachinmay@gmail.com...
 
 <!---
